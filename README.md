@@ -1,1 +1,1 @@
-# projects
+# battleship discord bot
